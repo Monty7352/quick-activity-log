@@ -1,11 +1,11 @@
 {
-    "name": "Monty7352/quick-activity-log",
+    "name": "monty7352/quick-activity-log",
     "description": "A lightweight activity logger for Laravel Eloquent models.",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "satyam",
+            "name": "Satyam",
             "email": "test@example.com"
         }
     ],
