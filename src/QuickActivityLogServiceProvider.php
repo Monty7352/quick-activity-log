@@ -13,7 +13,7 @@ class QuickActivityLogServiceProvider extends ServiceProvider
 
     public function boot(): void
     {
-        // Package ki migration direct app me load ho jayegi
+        
         $this->loadMigrationsFrom(__DIR__ . '/../database/migrations');
     }
 }
