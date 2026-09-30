@@ -15,13 +15,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Monty7352\\QuickActivityLog\\": "src/"
+            "TestVendor\\QuickActivityLog\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Monty7352\\QuickActivityLog\\QuickActivityLogServiceProvider"
+                "TestVendor\\QuickActivityLog\\QuickActivityLogServiceProvider"
             ]
         }
     }
