@@ -1,12 +1,12 @@
 {
-    "name": "your-github-username/quick-activity-log",
+    "name": "Monty7352/quick-activity-log",
     "description": "A lightweight activity logger for Laravel Eloquent models.",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Your Name",
-            "email": "your-email@example.com"
+            "name": "satyam",
+            "email": "test@example.com"
         }
     ],
     "require": {
@@ -15,13 +15,13 @@
     },
     "autoload": {
         "psr-4": {
-            "YourGithubUsername\\QuickActivityLog\\": "src/"
+            "Monty7352\\QuickActivityLog\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "YourGithubUsername\\QuickActivityLog\\QuickActivityLogServiceProvider"
+                "Monty7352\\QuickActivityLog\\QuickActivityLogServiceProvider"
             ]
         }
     }
